@@ -1,0 +1,19 @@
+body{
+    height: 650px;
+    background: linear-gradient(to bottom right, rgb(119, 119, 248), rgb(238, 51, 238))
+
+}
+
+h1{
+    text-align: center;
+}
+form{
+    display: inline-block;
+}
+.container{
+    min-height: 400px;
+    width: 50%;
+    border: 2px solid white;
+    display: inline-block;
+    float: right;
+}
